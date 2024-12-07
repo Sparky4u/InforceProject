@@ -1,0 +1,6 @@
+@InforceProject.Server_HostAddress = http://localhost:52208
+
+GET {{InforceProject.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
